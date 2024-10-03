@@ -2,10 +2,10 @@ const SignInPage =
     () => {
     return (
         <div>
-            Sign up page
+            Sign in page
         </div>
     );
 }
 
 export default
-SignUpPage;
+SignInPage;
